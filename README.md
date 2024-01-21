@@ -7,9 +7,6 @@ Voir [SUJET.md](SUJET.md)
 
 Une version pdf peut s'obtenir via : `pandoc SUJET.md -o sujet.pdf`
 
-## Modalités du projet, des rendus et de l'évaluation
-
-Voir [CONSIGNES.md](CONSIGNES.md)
 
 ## Usage de git et GitLab
 
